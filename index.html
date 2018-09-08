@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="ja">
+    
 <head>
 <meta charset="utf-8">
+<link rel="stylesheet" href="n.css">
 <title>Backbone.js</title>
 <script type="text/javascript">
 
@@ -95,12 +97,14 @@ function error() {
 </script>
 </head>
 <body>
-<h1>Tasks</h1>
+    <center>
+<h1>Todoアプリ</h1>
 <input type="text" id="title">
 <input type="button" onclick="addTask();" value="add">
 <span id="error"></span>
 <div id="tasks">
 </div>
-<p>Tasks left: <span id="count"></span></p>
+<p>タスクの数は<span id="count"></span></p>
+    </center>
 </body>
 </html>
