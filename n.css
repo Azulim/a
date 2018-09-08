@@ -3,7 +3,6 @@
         max-width: 100%;
         height: auto;
     }
+ html{font-size: 62.5%;}
+body{font-size: 1.4rem;}   
 }
-
-html{font-size: 62.5%;}
-body{font-size: 1.4rem;}
