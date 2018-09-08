@@ -1,0 +1,14 @@
+@charset "utf-8";
+{background-color:azure ;}
+p{}
+@media screen and (min-with: 480px){
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+ html{font-size: 62.5%;}
+body{font-size: 1.4rem;}   
+}
+@media screen and (min-with: 1024px){
+    
+}
