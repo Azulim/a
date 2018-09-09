@@ -12,3 +12,6 @@ body{font-size: 1.4rem;}
 @media screen and (min-with: 1024px){
     
 }
+<style type="text/css">
+    header {border-width: 10px solid #511717;}
+    </style>
